@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # refokusclone
 # Refokus
 # Refokus
+# Refokus
